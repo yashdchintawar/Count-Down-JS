@@ -27,8 +27,3 @@ Welcome to the New Year Countdown project! This web application provides an exci
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request with your improvements.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
