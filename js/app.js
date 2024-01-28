@@ -1,4 +1,10 @@
-const endDate = "01 JANUARY 2025 00:00:00 AM";
+let currentDate = new Date();
+
+let year = currentDate.getFullYear();
+
+let yearEnd = year+1;
+
+const endDate = `01 JANUARY ${yearEnd} 00:00:00 AM`;
 const inputs = document.querySelectorAll("input")
 
 
